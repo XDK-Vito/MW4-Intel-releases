@@ -6,7 +6,7 @@ pour le marquer « à trouver » et voir où le trouver), en style néon.
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/xavstream/MW4-Intel-releases/releases/latest).
+1. Ouvre la [dernière version](https://github.com/XDK-Vito/MW4-Intel-releases/releases/latest).
 2. Télécharge **`MW4Intel.exe`** (le fichier `.sig` à côté sert seulement à vérifier les mises à jour).
 3. Lance-le. Il est aussi dans **XDK Hub**, rubrique Logiciels PC.
 
